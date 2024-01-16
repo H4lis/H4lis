@@ -6,13 +6,13 @@
 <h1 align="center">👋 Welcome! </h1>
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nurh4lis/) [![Twitter](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrul-hidayat-867230292/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nurh4lis/) [![Twitter](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nurhalis-018aa4233/)
 
 [![](https://visitcount.itsvg.in/api?id=AsruHidayat&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 </h1>
 
-<h1 align="center">
+<h1 align="start">
 
 [![My Skills](https://skillicons.dev/icons?i=figma,flutter,dart,php,cpp)](https://skillicons.dev)
 
