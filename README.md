@@ -10,7 +10,7 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
 
 <h1 align="center"> 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashid.uix/) [![Twitter](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrul-hidayat-867230292/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nurh4lis/) [![Twitter](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrul-hidayat-867230292/)
 
 [![](https://visitcount.itsvg.in/api?id=AsruHidayat&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
